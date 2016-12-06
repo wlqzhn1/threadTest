@@ -68,5 +68,6 @@ public class HelloWorld {
 				}
 			}
 		}, "BB").start();
+		System.out.println("已查阅！");
 	}
 }
