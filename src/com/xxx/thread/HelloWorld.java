@@ -70,5 +70,6 @@ public class HelloWorld {
 		}, "BB").start();
 		System.out.println("已查阅！");
 		System.out.println("第二次请求！");
+		System.out.println("已查阅！");
 	}
 }
