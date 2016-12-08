@@ -72,5 +72,6 @@ public class HelloWorld {
 		System.out.println("第二次请求！");
 		System.out.println("已查阅！");
 		System.out.println("03");
+		System.out.println("已接收03");
 	}
 }
