@@ -73,6 +73,5 @@ public class HelloWorld {
 		System.out.println("已查阅！");
 		System.out.println("03");
 		System.out.println("已接收03");
-		System.out.println("update 04");
 	}
 }
